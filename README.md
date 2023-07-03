@@ -57,8 +57,11 @@ No entanto, não foi fornecido detalhes sobre se as ligações foram atendidas p
 
 
 Suely Messias
+
 Analista de Dados
-email su-2105@hotmail.com
+
+email: su-2105@hotmail.com
+
 Sinta-se à vontade para entrar em contato comigo caso tenha alguma pergunta, sugestão ou oportunidade de colaboração. Estou aberta a novas conexões e discussões relacionadas a análise de dados e projetos similares.
 
 
